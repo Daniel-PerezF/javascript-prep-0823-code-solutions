@@ -14,7 +14,10 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 ## Notes
 
-All student notes should be written here.
+- The necessary tags for a complete HTML skeleton are doccument type,head,title,body.
+  -The type of content that belongs within the head of an html doccument are what you want to show up in the pages browser/information about the page.
+  -The type of content that belongs within the body is all the visual information you want to show up on the web page (images,text,links)
+  -The DOCTYPE declaration must appear at the top of the html doccument before anything else.
 
 How to write `Code Examples` in markdown
 
