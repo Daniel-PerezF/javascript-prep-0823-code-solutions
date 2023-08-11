@@ -12,7 +12,9 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 ## Notes
 
-All student notes should be written here.
+-function keyword, optional name, zero or more parameters, code block, optional return statement
+-called with parantheses ()
+-paramters taken on the value of the arugments that were passed in the function
 
 How to write `Code Examples` in markdown
 
